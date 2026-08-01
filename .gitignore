@@ -1,0 +1,9 @@
+**/__pycache__
+Venv
+.order
+.vscode
+
+HIDDEN
+
+Tokeniser.json
+TokeniserData.txt
