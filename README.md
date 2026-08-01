@@ -1,17 +1,12 @@
-<span style = "display: flex; align-items: center;">
-	<img src="Docs/ApricityAI Logo.png" width="180">
-	<div>
-		<h1 align = "center"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ U-LARPER ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ </h1>
-		<p align="center"> <b>
-			Unified Latent Architecture for Recursive
-			Prediction via Embedding Refinement
-		</b>
-		<br>
-			A theorhetical architecture for persistant latent reasoning beyond Transformers
-		<br>
-			By engineers at Apricity AI et al
-	 	</p>
-	</div>
+<span>
+	<h1 style="text-decoration: none;" align = "center"> U-LARPER </h1>
+	<p align="center"> <b>
+		Unified Latent Architecture for Recursive
+		Prediction via Embedding Refinement
+	</b>
+	<br>
+		A theorhetical architecture for persistant latent reasoning beyond Transformers
+	</p>
 </span>
 
 <p align="center">
@@ -20,6 +15,14 @@
 <a href = "Docs/">Other Documentation</a>
 •
 <a href = "Comparisons/">Comparisons</a></p>
+
+<br>
+
+<hr>
+
+<br>
+<br>
+
 
 <h2 align = "center"> Why U-LARPER? </h2>
 <p>
@@ -92,3 +95,8 @@ Examples/       Example implementations using files in Model/
 Comparisons/    Figures and graphs comparing U-LARPER with Transformers
 Model/          The U-LARPER architecture 'backend'
 ```
+<hr>
+
+
+<img src="Docs/ApricityAI Logo.png" width="120">
+<p style = "text-align: bottom;"><i>By engineers at Apricity AI et al</i></p>
